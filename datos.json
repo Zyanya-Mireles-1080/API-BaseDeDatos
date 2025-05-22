@@ -1,4 +1,5 @@
-[
+{
+  "products": [
   {
     "id" : 1,
     "title" : "Camiseta tejido de canalé",
@@ -27,3 +28,4 @@
     "thumbnail" : "https://raw.githubusercontent.com/Zyanya-Mireles-1080/Boutique_imagenes_app_flutter/refs/heads/main/Zyanya%C2%B4s%20Clothes/mujer/img8.png"
   },
 ]
+}
