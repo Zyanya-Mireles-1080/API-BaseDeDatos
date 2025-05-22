@@ -1,0 +1,29 @@
+[
+  {
+    "id" : 1,
+    "title" : "Camiseta tejido de canalé",
+    "price" : "$200",
+    "description" : "Blusa blanca de manga larga con tejido acanalado, cuello redondo y puños elásticos. Cómoda y versátil, ideal para un look casual.",
+    "rating" : "4.6",
+    "discountPercentage" : "15%",
+    "thumbnail" : "https://raw.githubusercontent.com/Zyanya-Mireles-1080/Boutique_imagenes_app_flutter/refs/heads/main/Zyanya%C2%B4s%20Clothes/mujer/img6.png"
+  },
+  {
+    "id" : 2,
+    "title" : "Blusa de oficina",
+    "price" : "$260",
+    "description" : "Blusa de oficina de manga de farol con cintura fruncida y bajo con abertura, de unicolor, para mujer en primavera y verano.",
+    "rating" : "4.7",
+    "discountPercentage" : "10%",
+    "thumbnail" : "https://raw.githubusercontent.com/Zyanya-Mireles-1080/Boutique_imagenes_app_flutter/refs/heads/main/Zyanya%C2%B4s%20Clothes/mujer/img7.png"
+  },
+  {
+    "id" : 3,
+    "title" : "Blusa unicolor",
+    "price" : "$250",
+    "description" : "Blusa beige de manga corta con botones frontales y escote en V. Elegante y ligera, perfecta para un look formal o semiformal.",
+    "rating" : "4.8",
+    "discountPercentage" : "10%",
+    "thumbnail" : "https://raw.githubusercontent.com/Zyanya-Mireles-1080/Boutique_imagenes_app_flutter/refs/heads/main/Zyanya%C2%B4s%20Clothes/mujer/img8.png"
+  },
+]
